@@ -37,3 +37,7 @@ members.push({
 
 const arrOfArr: number[][] = [] // array of array of number type
 arrOfArr.push([11])
+
+
+//  there is one more way of defining array types
+const newArray: Array<string> = []
